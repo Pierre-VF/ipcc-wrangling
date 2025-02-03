@@ -1,0 +1,10 @@
+[project]
+name = "ipcc-wrangling"
+version = "0.1.0"
+description = "Playing around with dataa from IPCC reports"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pymupdf>=1.25.2",
+    "requests>=2.32.3",
+]
